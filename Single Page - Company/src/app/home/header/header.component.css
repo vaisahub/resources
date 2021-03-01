@@ -1,0 +1,19 @@
+.background-blue{
+    background-color: darkcyan !important;
+    max-height: 70px;
+    opacity: .5;
+    font-size: smaller!important;
+   
+}
+
+@media screen and (max-width: 531px) {
+    .background-blue{
+        background-color: darkcyan !important;
+        max-height: 100px;
+        opacity: .5;
+    
+       
+    }
+}
+
+
